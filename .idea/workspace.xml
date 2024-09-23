@@ -5,7 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f5cd981c-1167-4945-bde1-acaaa5656cab" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/book.network/src/main/java/com/marek/book/network/handler/BusinessErrorCodes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/book.network/src/main/java/com/marek/book/network/handler/ExceptionResponse.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/book.network/src/main/java/com/marek/book/network/handler/GlobalExceptionHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/book.network/src/main/java/com/marek/book/network/handler/GlobalExceptionHandler.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,8 +19,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Interface" />
-        <option value="Enum" />
         <option value="Class" />
+        <option value="Enum" />
       </list>
     </option>
   </component>
@@ -74,6 +77,7 @@
 }</component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.marek.book.network.handler" />
       <recent name="com.marek.book.network.auth" />
       <recent name="com.marek.book.network.email" />
       <recent name="com.marek.book.network.security" />
@@ -106,7 +110,8 @@
       <workItem from="1726394938381" duration="253000" />
       <workItem from="1726395203393" duration="7900000" />
       <workItem from="1726555581089" duration="12000" />
-      <workItem from="1727110595416" duration="725000" />
+      <workItem from="1727110595416" duration="893000" />
+      <workItem from="1727111501661" duration="1652000" />
     </task>
     <servers />
   </component>
