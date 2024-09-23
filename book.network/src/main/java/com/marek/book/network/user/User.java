@@ -1,5 +1,7 @@
 package com.marek.book.network.user;
 
+import com.marek.book.network.book.Book;
+import com.marek.book.network.history.BookTransactionHistory;
 import com.marek.book.network.role.Role;
 import jakarta.persistence.*;
 import lombok.*;
@@ -40,6 +42,11 @@ public class User implements UserDetails, Principal {
 
     @ManyToMany(fetch = FetchType.EAGER)
     private List<Role> roles;
+
+    @OneToMany(mappedBy = "owner")
+    private List<Book> books;
+    @OneToMany(mappedBy = "user")
+    private List<BookTransactionHistory> histories;
 
     @CreatedDate
     @Column(nullable = false, updatable = false)
