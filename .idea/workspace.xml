@@ -5,39 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f5cd981c-1167-4945-bde1-acaaa5656cab" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/book-social.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/book.network/src/main/java/com/marek/book/network/auth/AuthenticationController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/book.network/src/main/java/com/marek/book/network/auth/AuthenticationRequest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/book.network/src/main/java/com/marek/book/network/auth/AuthenticationResponse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/book.network/src/main/java/com/marek/book/network/auth/AuthenticationService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/book.network/src/main/java/com/marek/book/network/auth/RegistrationRequest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/book.network/src/main/java/com/marek/book/network/config/BeansConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/book.network/src/main/java/com/marek/book/network/email/EmailService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/book.network/src/main/java/com/marek/book/network/email/EmailTemplateName.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/book.network/src/main/java/com/marek/book/network/role/Role.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/book.network/src/main/java/com/marek/book/network/role/RoleRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/book.network/src/main/java/com/marek/book/network/security/JwtAuthFilter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/book.network/src/main/java/com/marek/book/network/security/JwtService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/book.network/src/main/java/com/marek/book/network/security/SecurityConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/book.network/src/main/java/com/marek/book/network/security/UserDetailsServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/book.network/src/main/java/com/marek/book/network/user/Token.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/book.network/src/main/java/com/marek/book/network/user/TokenRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/book.network/src/main/java/com/marek/book/network/user/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/book.network/src/main/java/com/marek/book/network/user/UserRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/book.network/src/main/resources/application-dev.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/book.network/src/main/resources/templates/activate_account.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docker-compose.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -138,6 +106,7 @@
       <workItem from="1726394938381" duration="253000" />
       <workItem from="1726395203393" duration="7900000" />
       <workItem from="1726555581089" duration="12000" />
+      <workItem from="1727110595416" duration="725000" />
     </task>
     <servers />
   </component>
